@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Classes
+namespace Classes.CSharpFritz
 {
   class Program
   {
